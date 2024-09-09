@@ -1,2 +1,0 @@
-# WebSocket library for real-time communication
-websockets==11.0.3
